@@ -4,8 +4,8 @@
 class Cocheck < Formula
   desc "Shows what AI agents changed in your files, step by step"
   homepage "https://github.com/cocheck-ai/cocheck"
-  url "https://registry.npmjs.org/cocheck/-/cocheck-0.4.0.tgz"
-  sha256 "6297fa50be3d60f2c104016352e09469804acf25fa734eebb8a98457debe7ed1"
+  url "https://registry.npmjs.org/cocheck/-/cocheck-0.4.1.tgz"
+  sha256 "871837b87608a14187ecbca0ef32512a2bc5f6851b7b144877f6de1f68ee5374"
   license "MIT"
 
   depends_on :macos
